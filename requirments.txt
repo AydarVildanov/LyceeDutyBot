@@ -1,0 +1,14 @@
+aiogram
+aiohttp
+async-timeout
+attrs
+certifi
+chardet
+idna
+multidict
+pip
+pytz
+setuptools
+typing-extensions
+wheel
+yarl
